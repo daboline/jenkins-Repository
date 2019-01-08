@@ -12,7 +12,7 @@ package sn.m4jenkinslabs.m4jenkinslabs.service;
 		}
 		
 		public void testsomme(){
-			assertTrue(calcul.somme(5, 4)==9);
+			assertTrue(calcul.somme(5, 4)==2);
 		}
 		
 		public void testproduit(){
